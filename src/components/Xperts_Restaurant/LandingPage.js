@@ -167,7 +167,7 @@ export default function LandingPage() {
                                 <hr />
                                 <p>Your curry is hot, but your business is not?! We’ll help generate your own fully functional restaurant website with online ordering, within seconds. No coding skills involved :)</p>
                                 <br />
-                                <p>With the GloriaFood app, you can now accept online food orders from your own device... with just one tap of the screen.</p>
+                                <p>With the Order Xperts app, you can now accept online food orders from your own device... with just one tap of the screen.</p>
                                 <br />
                                 <p>Simply install our free order taking app for Android or iOS, on your own smartphone, tablet or iPad to get started.</p>
                                 <br />

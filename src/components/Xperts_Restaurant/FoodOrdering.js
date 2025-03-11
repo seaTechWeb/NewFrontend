@@ -52,7 +52,7 @@ export default function FoodOrdering() {
             <section style={{ paddingTop: '30px' }}>
                 <h1 className='text-center more-weight' >Online Food Ordering Website
                     For Restaurants</h1>
-                <p className='text-center' style={{ fontSize: '20px' }}>Free of charge, zero commissions, unlimited online orders</p>
+                <p className='text-center' style={{ fontSize: '20px' }}>Cheapest price in market, zero commissions, unlimited online orders?</p>
                 <div className='row imageContainer' style={{ marginTop: '40px' }}>
                     <div className='col-md-6'>
                         <div className="">
@@ -71,7 +71,7 @@ export default function FoodOrdering() {
                             <br />
                             <p>It’s simple: all you need to do is fill in your restaurant profile and add the “See MENU & Order” button on your site.</p>
                             <br />
-                            <p>With our free online food ordering Website, your clients can now order food online, straight from your website.</p>
+                            <p>With our Cheapest online food ordering Website, your clients can now order food online, straight from your website.</p>
                             {/* <Link type="button" to="#" className="btn btn-dark my-3 blueButton">Learn More &rarr;</Link> */}
                         </div>
                     </div>
