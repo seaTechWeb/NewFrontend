@@ -59,10 +59,10 @@ export default function LandingPage() {
                     <img className='fit-image' style={{ width: '100%' }} src='/Images/Xperts Restaurant/XpertBanner.jpeg' alt='banner' />
                 </div>
             </div>
-            <div className='container' style={{ marginTop: '100px', zIndex: '-100' }}>
+            <div className='container' style={{ marginTop: '10px', zIndex: '-100' }}>
 
-                <section id='sellFoodOnline' style={{ paddingTop: '30px' }}>
-                    <div className='row imageContainer' style={{ marginTop: '40px' }}>
+                <section id='sellFoodOnline' style={{ paddingTop: '10px' }}>
+                    <div className='row imageContainer'>
                         <div className='col-md-6'>
                             <div className="">
                                 <img
