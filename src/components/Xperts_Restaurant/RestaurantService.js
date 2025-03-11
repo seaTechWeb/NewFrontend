@@ -102,7 +102,7 @@ export default function RestaurantService() {
                             <br />
                             <p>Who said that online ordering has to be complicated?</p>
                             <br />
-                            <p>With our free restaurant ordering Website, you can set up an account & start taking online orders within minutes, straight from your:</p>
+                            <p>With our best restaurant ordering Website, you can set up an account & start taking online orders within minutes, straight from your:</p>
                             
                             <div className="text-secondary">
                                 <div className="d-flex align-items-start mb-2">
@@ -137,10 +137,10 @@ export default function RestaurantService() {
                     </div>
                     <div className='col-md-4 d-flex align-items-center mt-2'>
                         <div ref={thirdSectionTextRef}>
-                            <h2>Accept incoming orders on the fly. From any smartphone.</h2>
+                            <h2>Accept incoming orders on the tablet.In the Kitchen directly</h2>
                             <hr />
                             <br />
-                            <p>Download our free restaurant order taking app on your own smartphone & confirm orders in one tap of the screen.</p>
+                            <p>Sign-Up and start confirming orders on your tablet in one tap of the screen.</p>
                             <br />
                             <p>Experience how great it is to have order taking at your fingertips.</p>
                             <br />
