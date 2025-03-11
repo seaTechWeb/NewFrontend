@@ -82,7 +82,7 @@ export default function LandingPage() {
                                 <br />
                                 <p>No matter how much your business grows, you will always be able to take free unlimited orders with <b>zero costs.</b></p>
                                 <br />
-                                <p>Power your business with our free restaurant online ordering Website & you’ll never have to worry about fees or commissions.</p>
+                                <p>Power your business with our best online ordering Website & you’ll never have to worry about fees or commissions.</p>
                                 <br />
                             </div>
                         </div>
@@ -141,9 +141,9 @@ export default function LandingPage() {
                                 <h4>No time to waste: Take your first online order within minutes</h4>
                                 <hr />
                                 <p><b>How to get started:</b></p>
-                                <p>1. Simply create an account</p>
-                                <p>2. Add the restaurant widgets to your website</p>
-                                <p>3. Use our restaurant online ordering app to confirm orders placed on your website, Facebook page & restaurant app</p>
+                                <p>1. Simply sign-Up</p>
+                                <p>2. We will integrate your Menu and Website while you sit and relax.</p>
+                                <p>3. Use our tablet to confirm orders placed on your website, Facebook page & restaurant app</p>
                                 <br />
                                 <p>It’s that simple to have your own online food ordering website by tonight.</p>
                                 <br />
@@ -169,7 +169,7 @@ export default function LandingPage() {
                                 <br />
                                 <p>With the Order Xperts app, you can now accept online food orders from your own device... with just one tap of the screen.</p>
                                 <br />
-                                <p>Simply install our free order taking app for Android or iOS, on your own smartphone, tablet or iPad to get started.</p>
+                                <p>Simply Sign-Up Now to get started and our techs will reach out to you for complete menu setup.</p>
                                 <br />
                             </div>
                         </div>
