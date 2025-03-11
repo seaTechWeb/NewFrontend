@@ -50,7 +50,7 @@ export default function FoodOrdering() {
     return (
         <div className='container'>
             <section style={{ paddingTop: '30px' }}>
-                <h1 className='text-center more-weight' >Online Food Ordering System
+                <h1 className='text-center more-weight' >Online Food Ordering Website
                     For Restaurants</h1>
                 <p className='text-center' style={{ fontSize: '20px' }}>Free of charge, zero commissions, unlimited online orders</p>
                 <div className='row imageContainer' style={{ marginTop: '40px' }}>
@@ -71,7 +71,7 @@ export default function FoodOrdering() {
                             <br />
                             <p>It’s simple: all you need to do is fill in your restaurant profile and add the “See MENU & Order” button on your site.</p>
                             <br />
-                            <p>With our free online food ordering system, your clients can now order food online, straight from your website.</p>
+                            <p>With our free online food ordering Website, your clients can now order food online, straight from your website.</p>
                             {/* <Link type="button" to="#" className="btn btn-dark my-3 blueButton">Learn More &rarr;</Link> */}
                         </div>
                     </div>
@@ -108,7 +108,7 @@ export default function FoodOrdering() {
                     </div>
                     <div className='col-md-4 d-flex align-items-center mt-2'>
                         <div ref={thirdSectionTextRef}>
-                            <h2>Online food ordering system with mobile app for your food clients
+                            <h2>Online food ordering Website with mobile app for your food clients
                             </h2>
                             <hr />
                             <br/>
@@ -129,14 +129,14 @@ export default function FoodOrdering() {
                     </div>
                     <div className='col-md-5 order-2 order-md-1 d-flex align-items-center mt-2'>
                         <div ref={fourthSectionTextRef}>
-                            <h2>Receive and confirm orders from your own smartphone or tablet</h2>
+                            <h2>Receive and confirm orders from our OrderXpert tablet.</h2>
                             <hr />
                             <br/>
-                            <p>Get all your restaurant's online orders in one place with the order taking app.</p>
+                            <p>Get all your restaurant's online orders in one place with tablet.</p>
                             <br/>
-                            <p>How this works: when someone places an order on your website, Facebook or mobile app, it instantly gets pushed to your Android or iOS device.</p>
+                            <p>How this works: when someone places an order on your website, Facebook or mobile app, it instantly gets pushed to your tablet.</p>
                             <br/>
-                            <p>With this free food ordering app for restaurants, you can easily start taking online orders & grow your business.... without worrying about fees & commissions.</p>
+                            <p>With our custom Tablet Application for restaurants, you can easily start taking online orders & grow your business.... without worrying about fees & commissions.</p>
                         </div>
                     </div>
                     <div className='col-md-6 order-1 order-md-2'>

@@ -78,11 +78,11 @@ export default function LandingPage() {
                                 <p style={{ color: "orange" }}><b>SELL FOOD ONLINE</b></p>
                                 <h4>Turn people visiting your website into regular food clients</h4>
                                 <hr />
-                                <p>Our online ordering system will help you transform your website into a money-making machine.</p>
+                                <p>Our online ordering Website will help you transform your website into a money-making machine.</p>
                                 <br />
                                 <p>No matter how much your business grows, you will always be able to take free unlimited orders with <b>zero costs.</b></p>
                                 <br />
-                                <p>Power your business with our free restaurant online ordering system & you’ll never have to worry about fees or commissions.</p>
+                                <p>Power your business with our free restaurant online ordering Website & you’ll never have to worry about fees or commissions.</p>
                                 <br />
                             </div>
                         </div>
@@ -117,7 +117,7 @@ export default function LandingPage() {
                         <div className='col-md-4 d-flex align-items-center mt-2'>
                             <div ref={buildOnlinePresenceTextRef}>
                                 <p style={{ color: "orange" }}><b>BUILD A STRONG ONLINE PRESENCE</b></p>
-                                <h4>No money-making website? Get a website that sells plus an online ordering system</h4>
+                                <h4>No money-making website? Get a website that sells plus an online ordering Website</h4>
                                 <hr />
                                 <p>Your curry is hot, but your business is not?! We’ll help generate your own fully functional restaurant website with online ordering, within seconds. No coding skills involved :)</p>
                                 <br />

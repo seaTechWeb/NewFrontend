@@ -63,8 +63,8 @@ export default function RestaurantService() {
     return (
         <div className='container'>
             <section style={{ paddingTop: '30px' }}>
-                <h1 className='text-center more-weight' >Online Food Ordering and Delivery System</h1>
-                <p className='text-center' style={{ fontSize: '20px' }}>Online Ordering System For Takeaway, Delivery, Order Ahead & Table Reservations in One Solution
+                <h1 className='text-center more-weight' >Online Food Ordering and Delivery Website</h1>
+                <p className='text-center' style={{ fontSize: '20px' }}>Online Ordering Website For Takeaway, Delivery, Order Ahead & Table Reservations in One Solution
                 </p>
                 <div className='row imageContainer' style={{ marginTop: '40px' }}>
                     <div className='col-md-6'>
@@ -79,14 +79,14 @@ export default function RestaurantService() {
                     </div>
                     <div className='col-md-4 d-flex align-items-center' style={{ marginTop: '10px' }}>
                         <div ref={firstSectionTextRef}>
-                            <h2>Complete Online Food Ordering and Delivery System. On demand.</h2>
+                            <h2>Complete Online Food Ordering and Delivery Website. On demand.</h2>
                             <hr />
                             <br />
-                            <p>Searching for an online food ordering system with table reservations, pickup and delivery software?</p>
+                            <p>Searching for an online food ordering Website with table reservations, pickup and delivery software?</p>
                             <br />
                             <p>Say no more. We’ve got you covered.</p>
                             <br />
-                            <p>Our online food ordering and delivery system centralizes all pick-up, delivery & dine in orders, so you can easily be in full control of your business.</p>
+                            <p>Our online food ordering and delivery Website centralizes all pick-up, delivery & dine in orders, so you can easily be in full control of your business.</p>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@ export default function RestaurantService() {
                             <br />
                             <p>Who said that online ordering has to be complicated?</p>
                             <br />
-                            <p>With our free restaurant ordering system, you can set up an account & start taking online orders within minutes, straight from your:</p>
+                            <p>With our free restaurant ordering Website, you can set up an account & start taking online orders within minutes, straight from your:</p>
                             
                             <div className="text-secondary">
                                 <div className="d-flex align-items-start mb-2">
@@ -119,7 +119,7 @@ export default function RestaurantService() {
                                 </div>
                             </div>
                             <br />
-                            <p>It’s easy to boost your profits & save on food portal commission fees when you rely on a powerful ordering system.</p>
+                            <p>It’s easy to boost your profits & save on food portal commission fees when you rely on a powerful ordering Website.</p>
 
                             {/* <Link type="button" to="/#" className="btn btn-dark my-3 blueButton">Learn More &rarr;</Link> */}
                         </div>
@@ -188,13 +188,13 @@ export default function RestaurantService() {
                     </div>
                     <div className='col-md-4 d-flex align-items-center mt-2'>
                         <div ref={fifthSectionTextRef}>
-                            <h2>Online food ordering system with mobile app for your food clients
+                            <h2>Online food ordering Website with mobile app for your food clients
                             </h2>
                             <hr />
                             <br />
                             <p>More and more customers want to pick up their food & enjoy it in the comfort of their own home.</p>
                             <br />
-                            <p>Our system enables you to create a great customer experience, by enabling them to choose the time when they want to pick up their ready-made food.</p>
+                            <p>Our Website enables you to create a great customer experience, by enabling them to choose the time when they want to pick up their ready-made food.</p>
                             <br />
                             {/* <Link type="button" to="/#" className="btn btn-dark my-3 blueButton">Learn More  &rarr;</Link> */}
                         </div>
